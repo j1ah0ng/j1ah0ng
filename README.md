@@ -1,6 +1,4 @@
-# Jiahong
-
-**Hi!** I'm a current undergraduate student at the University of California, San Diego studying Computer Engineering and Mathematics for Scientific Computation. My academic interests lie at the intersection of (discrete and numerical) math and computer science. Find me [here](linkedin.com/in/jiahonglong), [here](facebook.com/jiahonglong), and [here](leetcode.com/j1ah0ng).
+**Hi!** I'm a current undergraduate student at the University of California, San Diego studying Computer Engineering and Mathematics for Scientific Computation. My academic interests lie at the intersection of (discrete and numerical) math and computer science. Find me [here](https://linkedin.com/in/jiahonglong), [here](https://facebook.com/jiahonglong), and [here](https://leetcode.com/j1ah0ng).
 
 ## Potentially Interesting Stats
 |Thing|Table|
