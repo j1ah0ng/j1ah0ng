@@ -4,4 +4,4 @@
 
 I'm a current undergraduate student at the University of California, San Diego studying Computer Engineering and Mathematics for Scientific Computation. My academic interests lie at the intersection of (discrete and numerical) math and computer science.
 
-Find me at [here](https://linkedin.com/in/jiahonglong), [here](https://facebook.com/jiahonglong), and [here](https://leetcode.com/j1ah0ng).
+Find me at [here](https://linkedin.com/in/jiahonglong) and [here](https://leetcode.com/j1ah0ng).
