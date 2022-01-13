@@ -1,6 +1,6 @@
 # Hi!
 
-<img src="https://wakatime.com/share/@f23ad580-043d-4d88-9237-2819770bfe2a/4bdc956b-f20f-413a-85fb-bd286ca82701.png" width=400 align="left"/>
+<img src="https://wakatime.com/share/@f23ad580-043d-4d88-9237-2819770bfe2a/31d2f17e-eccd-4a5f-b170-d57f95c5ed22.svg" width=400 align="left"/>
 
 I'm a current undergraduate student at the University of California, San Diego studying Computer Engineering and Applied Mathematics. My academic interests lie at the intersection of (discrete and numerical) math and computer science.
 
