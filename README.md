@@ -4,4 +4,4 @@
 
 I'm a current graduate student at the University of California, San Diego studying Intelligent Systems, Robotics, and Controls with undergrad degrees in Computer Engineering and Applied Mathematics. My academic interests lie at the intersection of (discrete and numerical) math and computer science with applications in robotics.
 
-Find me on [Linkedin](https://linkedin.com/in/jiahonglong).
+Currently deluding cars into thinking they exist in the real world. Find me on [Linkedin](https://linkedin.com/in/jiahonglong).
